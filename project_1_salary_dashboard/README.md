@@ -29,21 +29,21 @@ The dashboard can be accessed in the following file: `Salary_Dashboard.xlsx`
 - Data Handling: Sorted by descending median salary
 - Insight: Senior and engineering roles tend to have higher salaries than analyst roles
 
-<p align="center"> <img src="job_title.png" width="450"> </p>
+<p align="center"> <img src="assets/job_title.png" width="450"> </p>
 
 ### 2️⃣ Country Median Salaries (Map Chart)
 - Design: Color-coded global map
 - Functionality: Color-coded map to visually differentiate salary levels across regions. Additionally highlights which job platforms/websites are most commonly used below
 - Insight: Highlights global salary disparities and high-paying regions
 
-<p align="center"> <img src="country.png" width="450"> </p>
+<p align="center"> <img src="assets/country.png" width="450"> </p>
 
 ### 3️⃣ Count by Job Schedule Type (Bar Chart)
 - Design: Horizontal bar chart comparing salaries across schedule types (e.g., Full-time, Part-time)
 - Uses dynamic filtering and calculated metrics
 - Insight: Full-time roles generally offer higher and more stable salaries compared to other job types
 
-<p align="center"> <img src="type.png" width="450"> </p>
+<p align="center"> <img src="assets/type.png" width="450"> </p>
 
 ## Key Insights
 - Senior and specialized roles command higher salaries

@@ -8,7 +8,7 @@ Projects are designed to demonstrate practical applications of Excel for data an
 
 This project is an interactive salary dashboard for data-related jobs. It helps users explore how job title, location, platform, and employment type influence salaries.
 
-<p align="center"> <img src="project_1_salary_dashboard/Salary_Dashboard_Demo.gif" width="700"> </p>
+<p align="center"> <img src="project_1_salary_dashboard/assets/Salary_Dashboard_Demo.gif" width="700"> </p>
 
 Key Features:
 
